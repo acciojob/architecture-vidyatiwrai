@@ -1,4 +1,4 @@
-.imageContainer img{
+.imageContainer{
 /*     display: grid; */
 /*     grid-template-columns: repeat(3,1fr); */
 /*     grid-template-rows: repeat(2,300px); */
@@ -6,6 +6,9 @@
     padding: 30px;
     gap: 10px;
 
+}
+.imageContainer img{
+	visibility:visible;
 }
 
 .image{
