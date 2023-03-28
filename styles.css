@@ -9,7 +9,7 @@
 	visibility:visible;
 }
 
-.image{
+.imageContainer img{
     background-color: teal;
     gap: 30px;
     
